@@ -1,0 +1,12 @@
+product: android/app
+
+dependencies:
+  - ../shared
+  - $libs.androidx.compose.ui.tooling.preview
+  - $libs.androidx.activity.compose
+  - $compose.foundation
+
+settings:
+  compose: enabled
+  android:
+    namespace: xyz.malefic.meds
