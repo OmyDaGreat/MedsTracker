@@ -2,7 +2,7 @@
 androidx-activityCompose = "1.10.1"
 androidx-ui-tooling = "1.8.1"
 androidx-lifecycle = "2.8.4"
-coroutines = "1.10.1"
+coroutines = "1.10.2"
 kamel = "1.0.5"
 koin = "4.0.2"
 ktor = "3.1.3"
